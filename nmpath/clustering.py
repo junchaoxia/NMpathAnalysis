@@ -4,8 +4,8 @@ Created on June 29, 2017
 @author: esuarez
 '''
 import numpy as np
-from auxfunctions import pops_from_tmatrix, check_tmatrix, random_markov_matrix
-from mfpt import mfpts_matrix, min_commute_time, max_commute_time
+from .auxfunctions import pops_from_tmatrix, check_tmatrix, random_markov_matrix
+from .mfpt import mfpts_matrix, min_commute_time, max_commute_time
 import copy
 import operator
 

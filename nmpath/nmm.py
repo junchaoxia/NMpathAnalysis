@@ -4,12 +4,12 @@ Created on Jul 28, 2016
 '''
 
 import numpy as np
-from auxfunctions import map_to_integers, normalize_markov_matrix
-from auxfunctions import pops_from_nm_tmatrix, pops_from_tmatrix
-from auxfunctions import pseudo_nm_tmatrix, weighted_choice
-from mfpt import direct_mfpts, non_markov_mfpts, fpt_distribution
-from mfpt import direct_fpts, markov_mfpts
-from ensembles import DiscreteEnsemble, DiscretePathEnsemble
+from .auxfunctions import map_to_integers, normalize_markov_matrix
+from .auxfunctions import pops_from_nm_tmatrix, pops_from_tmatrix
+from .auxfunctions import pseudo_nm_tmatrix, weighted_choice
+from .mfpt import direct_mfpts, non_markov_mfpts, fpt_distribution
+from .mfpt import direct_fpts, markov_mfpts
+from .ensembles import DiscreteEnsemble, DiscretePathEnsemble
 from msmtools.estimation import transition_matrix
 
 

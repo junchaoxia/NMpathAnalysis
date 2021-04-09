@@ -4,8 +4,9 @@ Created on Jul 29, 2016
 '''
 import numpy as np
 from copy import deepcopy
-import auxfunctions as aux
-from interval import Interval
+
+import nmpath.auxfunctions as aux
+from .interval import Interval
 
 
 def direct_mfpts(trajectories, stateA=None, stateB=None, discrete=True,

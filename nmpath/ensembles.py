@@ -5,11 +5,11 @@ from copy import deepcopy
 import networkx as nx
 from math import log
 
-from interval import Interval
-from auxfunctions import get_shape, weighted_choice
-from auxfunctions import reverse_sort_lists
-from mfpt import directional_mfpt
-from mfpt import direct_mfpts
+from .interval import Interval
+from .auxfunctions import get_shape, weighted_choice
+from .auxfunctions import reverse_sort_lists
+from .mfpt import directional_mfpt
+from .mfpt import direct_mfpts
 
 
 class Ensemble:
