@@ -1,9 +1,8 @@
 data
-src_old
 .pydevproject
 .DS_Store
 nmpath/__pycache__/*
 .vscode
-test/.ipynb*
-test/.ipynb_checkpoints/nm_path_analysis_testing-checkpoint.ipynb
+examples/.ipynb*
+examples/.ipynb_checkpoints/nm_path_analysis_testing-checkpoint.ipynb
 

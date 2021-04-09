@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f491d73b-fc4f-4df8-a8cb-d27428a6ed68" name="Default" comment="" />
-    <ignored path="NMpathAnalysis.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="f491d73b-fc4f-4df8-a8cb-d27428a6ed68" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NMpathAnalysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NMpathAnalysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmpath/auxfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/nmpath/auxfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmpath/ensembles.py" beforeDir="false" afterPath="$PROJECT_DIR$/nmpath/ensembles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmpath/mappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/nmpath/mappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmpath/mfpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/nmpath/mfpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nmpath/nmm.py" beforeDir="false" afterPath="$PROJECT_DIR$/nmpath/nmm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.ipynb_checkpoints/nm_path_analysis_testing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/.ipynb_checkpoints/nm_path_analysis_testing-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Chignoling_FS_after_clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Chignoling_FS_after_clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Chignoling_mfpts_after_clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Chignoling_mfpts_after_clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Clustering_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Clustering_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ProteinB_FS_after_clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ProteinB_FS_after_clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/example_mfpts_chignolin.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/example_mfpts_chignolin.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/nm_path_analysis_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/nm_path_analysis_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/short_tests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/short_tests.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/test_interval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tools_for_notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/tools_for_notebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tools_for_notebook0.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/tools_for_notebook0.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,23 +30,8 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="NMpathAnalysis" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="msm.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nmpath/msm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +55,7 @@
     <option name="width" value="1855" />
     <option name="height" value="1176" />
   </component>
+  <component name="ProjectId" id="1qnpMHTLofSwfWoCtiUhrmxYf5O" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -104,26 +103,18 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -137,6 +128,8 @@
       <workItem from="1474494966647" duration="66000" />
       <workItem from="1474650160890" duration="29000" />
       <workItem from="1498320332586" duration="306000" />
+      <workItem from="1617725162918" duration="4586000" />
+      <workItem from="1617931155514" duration="1349000" />
     </task>
     <servers />
   </component>
@@ -174,7 +167,19 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -183,13 +188,6 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/nmpath/msm.py">
