@@ -42,6 +42,3 @@ class TestInterval(unittest.TestCase):
         self.assertTrue([2.5, 1.5, 0.15] in self.interval_5)
         self.assertTrue([2.5, 1.5, 0.3] not in self.interval_5)
 
-
-if __name__ == '__main__':
-    unittest.main()
