@@ -1,4 +1,5 @@
 data
+.idea
 .pydevproject
 .DS_Store
 nmpath/__pycache__/*
