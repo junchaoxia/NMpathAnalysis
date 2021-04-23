@@ -5,9 +5,9 @@ import scipy.interpolate
 import matplotlib.cm as cm
 import networkx as nx
 
-from .interval import Interval
-from .auxfunctions import *
-from .ensembles import *
+from nmpath.interval import Interval
+from nmpath.auxfunctions import *
+from nmpath.ensembles import *
 
 # global variable: number of partitions per dimension in the 2D toy model
 N = 6

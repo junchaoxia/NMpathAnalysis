@@ -364,7 +364,7 @@ def cdf(pmf):
 
 
 if __name__ == '__main__':
-    import mfpt
+    import nmpath.mfpt as mfpt
     # k= np.array([[1,2],[2,3]])
     n_states = 5
 

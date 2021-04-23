@@ -6,7 +6,7 @@ import numpy as np
 from copy import deepcopy
 
 import nmpath.auxfunctions as aux
-from .interval import Interval
+from nmpath.interval import Interval
 
 
 def direct_mfpts(trajectories, stateA=None, stateB=None, discrete=True,
