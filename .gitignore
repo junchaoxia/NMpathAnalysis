@@ -3,6 +3,8 @@ data
 .pydevproject
 .DS_Store
 nmpath/__pycache__/*
+nmpath.egg-info
+tests/__pycache__/*
 .vscode
 examples/.ipynb*
 examples/.ipynb_checkpoints/nm_path_analysis_testing-checkpoint.ipynb
